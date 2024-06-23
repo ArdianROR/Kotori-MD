@@ -4,15 +4,15 @@ import { fileURLToPath } from "url";
 import Function from "../system/lib/function.js";
 
 //—————「 Setings your bot 」—————//
-global.name = "Akane - Bot";
+global.name = "Kotori-MD";
 global.wm = "Made from love";
 
-global.author = "Arifzyn";
+global.author = "Ardian";
 global.packname = "Created Sticker By";
-global.link = "https://github.com/Arifzyn19";
+global.link = "https://github.com/ArdianROR";
 
-global.owner = ["6288213503541", "6285691464024"];
-global.pairingNumber = "62856914640248"; 
+global.owner = ["628386413714", "6281535208853"];
+global.pairingNumber = "6281535208853"; 
 
 global.prefix = /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i;
 global.thumbnail = fs.readFileSync("./storage/media/images.jpg");
