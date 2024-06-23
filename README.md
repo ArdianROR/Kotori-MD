@@ -4,18 +4,18 @@
     <img src="https://raw.githubusercontent.com/Arifzyn19/Akane/main/storage/media/thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
-<h1 align="center">Akane - Bot</h1>
+<h1 align="center">Kotori - MD</h1>
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Arifzyn19"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Arifzyn19-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ArdianROR"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ardian-green.svg?style=for-the-badge&logo=github"></a>
 
 ## Konfigurasi ⚙️
 
-Mengedit nomor owner & nama bot di [`config.js`](https://github.com/Arifzyn19/Akane/blob/main/storage/config.js)
+Mengedit nomor owner & nama bot di [`config.js`](https://github.com/ArdianROR/Kotori-MD/blob/main/storage/config.js)
 
 ## Untuk user windows/rdp 💻
 
@@ -36,8 +36,8 @@ Instal alat ini terlebih dahulu sebelum menjalankan skrip
 - apt-get install -y nodejs
 
 ```bash
-git clone https://github.com/ArifzynXD/Akane 
-cd Akane
+git clone https://github.com/ArdianROR/Kotori-MD 
+cd Kotori-MD
 npm install
 npm update
 ```
@@ -87,7 +87,7 @@ export default {
 
 1. Tidak untuk dijual
 2. Jangan lupa beri bintang pada repo ini
-3. Jika Anda memiliki masalah, hubungi saya [`WhatsApp`](https://wa.me/62895347198105)
+3. Jika Anda memiliki masalah, hubungi saya [`WhatsApp`](https://wa.me/628386413714)
 
 ## Thanks to ✨
 
